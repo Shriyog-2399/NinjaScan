@@ -1,4 +1,4 @@
-# Python-Based Port Scanne
+# Python-Based Port Scanner
 
 This Python script is a multithreaded port scanner designed to scan open ports on a specified host. The script uses threads to efficiently perform port scanning and can handle high port ranges with customizable thread counts, start and end ports, and verbose output.
 
